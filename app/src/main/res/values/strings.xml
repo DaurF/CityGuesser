@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CityGuesser</string>
+
+    <string name="play_label">Play</string>
+    <string name="settings_label">Settings</string>
+    <string name="exit_label">Exit</string>
+
+    <string name="step_label">Step %d of %d</string>
+    <string name="score_label">Score: %d</string>
+    <string name="error_msg">The answer is wrong. Stain your brain!</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="score_result">Your score result is %d</string>
+    <string name="exit">Exit</string>
+    <string name="restart">Restart Game</string>
+</resources>
